@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dudutou/test-workflows/issues"
   },
-  "homepage": "https://github.com/dudutou/test-workflows#readme"
+  "homepage": "https://github.com/dudutou/test-workflows#readme",
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
 }
